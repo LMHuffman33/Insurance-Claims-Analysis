@@ -28,10 +28,10 @@ Insurance companies need to monitor claim activity to identify cost drivers, cla
 - Created an interactive dashboard for quick claims performance review
 
 ## Files
-- `Insurance_Claims_Analysis.xlsx` — main Excel dashboard
-- `data/insurance_claims_raw.csv` — original claims dataset
-- `screenshots/` — images of the dashboard and workbook structure
-
+- `Insurance_Claims_Analysis.xlsx` - main Excel dashboard
+- `Dashboard_Screenshot.png` - image of the dashboard
+- `PivotTable_Screenshot.png` - image of pivot tables
+- `insurance_claims.csv` - dataset used for all work
 ## Skills Demonstrated
 - Excel dashboard design
 - Data cleaning
