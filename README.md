@@ -31,7 +31,7 @@ Insurance companies need to monitor claim activity to identify cost drivers, cla
 - `Insurance_Claims_Analysis.xlsx` - main Excel dashboard
 - `Dashboard_Screenshot.png` - image of the dashboard
 - `PivotTable_Screenshot.png` - image of pivot tables
-- `insurance_claims.csv` - dataset used for all work
+- `insurance_claims.csv` - dataset used for all work, found on Kaggle
 ## Skills Demonstrated
 - Excel dashboard design
 - Data cleaning
