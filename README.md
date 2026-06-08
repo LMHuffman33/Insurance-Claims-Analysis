@@ -23,12 +23,12 @@ Insurance companies need to monitor claim activity to identify cost drivers, cla
 - Data dictionary explaining the fields used in the analysis
 
 ## Key Insights
--Fraud-reported claims made up 24.7% of all claims, with fraud claims having a higher average claim value than non-fraud claims.
--Severe claims had the highest total claim value at about $34.2M and the highest average claim value at about $74.1K.
--New York had the highest total claim value at about $14.8M, followed by South Carolina and West Virginia.
--Multi-vehicle collisions and single-vehicle collisions accounted for the largest claim counts and total claim values among incident types.
--Claim activity was highest in January, with 516 claims and about $27.8M in total claim value.
--Vehicle claims made up the largest portion of total claim costs compared with injury and property claims.
+- Fraud-reported claims made up 24.7% of all claims, with fraud claims having a higher average claim value than non-fraud claims.
+- Severe claims had the highest total claim value at about $34.2M and the highest average claim value at about $74.1K.
+- New York had the highest total claim value at about $14.8M, followed by South Carolina and West Virginia.
+- Multi-vehicle collisions and single-vehicle collisions accounted for the largest claim counts and total claim values among incident types.
+- Claim activity was highest in January, with 516 claims and about $27.8M in total claim value.
+- Vehicle claims made up the largest portion of total claim costs compared with injury and property claims.
 
 ## Files
 - `Insurance_Claims_Analysis.xlsx` - main Excel dashboard
